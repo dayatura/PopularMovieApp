@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--The labels the user will see for their sort order choices-->
+    <array name="pref_sort_option_labels">
+        <item>@string/pref_sort_label_popular</item>
+        <item>@string/pref_sort_label_rating</item>
+    </array>
+
+    <!--The values for the sort order choices-->
+    <array name="pref_sort_option_values">
+        <item>@string/pref_sort_popular_value</item>
+        <item>@string/pref_sort_rating_value</item>
+    </array>
+</resources>
